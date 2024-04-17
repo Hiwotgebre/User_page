@@ -1,0 +1,40 @@
+.nav{
+    background-color: gainsboro;
+    margin-bottom: 20px;
+    
+   }
+
+    .card-img-top{
+        width: 60%;
+        height: 190px;
+        display: block; 
+        margin: 10px auto;
+        border-radius: 100%;
+        
+        
+    }
+
+    #card-body-1{
+        text-align: center;
+    }
+
+    .progress-bar-wrapper{
+        display: flex;
+        justify-content:space-evenly;
+        margin-top: 10px;
+    }
+
+    #card-1{
+        width: 50%;
+        margin-right: 10px;
+
+    }
+
+    #card-2{
+        width: 50%;
+    }
+
+    span{
+        color: #0986ec;
+        margin-right: 5px;
+    }
